@@ -1,0 +1,240 @@
+{
+    "figures": {
+        "Direcció i Suport SIIJ": [
+            "Direcció",
+            "Suport Material", 
+            "Suport Dades",
+            "Suport Gamificació"
+        ],
+        "OID": [
+            "Unitat de processos i qualitat",
+            "PRISMA",
+            "Comunicació"
+        ],
+        "Assessories": [
+            "Coordinadora",
+            "Assessores",
+            "Assessores CRAJ"
+        ],
+        "PIJ": {
+            "PIJ Integral Paral·lel i 9B": [
+                "Coordinadora",
+                "Informadora juvenil"
+            ],
+            "PIJ CV": [
+                "Informadora juvenil"
+            ],
+            "PIJ Sants": [
+                "Informadora juvenil"
+            ],
+            "PIJ Les Corts": [
+                "Informadora juvenil"
+            ],
+            "PIJ Sarrià": [
+                "Informadora juvenil"
+            ],
+            "PIJ Gràcia": [
+                "Informadora juvenil"
+            ],
+            "PIJ Punt 7": [
+                "Informadora juvenil"
+            ],
+            "PIJ Sant Andreu": [
+                "Informadora juvenil"
+            ],
+            "PIJ Sant Martí": [
+                "Direcció",
+                "Dinamitzadora",
+                "Informadora juvenil"
+            ]
+        },
+        "JIP": [
+            "Coordinadora",
+            "Informadora juvenil"
+        ],
+        "Espais Joves i Casal de Joves": {
+            "CJ Palau Alòs": [
+                "Direcció",
+                "Programació",
+                "Dinamitzadora"
+            ],
+            "EJ La Bàscula": [
+                "Direcció",
+                "Dinamització"
+            ],
+            "CJ Les Corts": [
+                "Direcció",
+                "Dinamització"
+            ],
+            "EJ Casa Sagnier": [
+                "Direcció",
+                "Informadora",
+                "Dinamitzadora"
+            ],
+            "EJ La Fontana": [
+                "Direcció",
+                "Coordinació",
+                "Dinamitzadora",
+                "Informadora",
+                "Comunicació",
+                "Tècnica so",
+                "Tècnica llum"
+            ],
+            "CJ del Coll": [],
+            "CJ Girapells": [
+                "Direcció",
+                "Dinamitzadora"
+            ],
+            "EJ Boca Nord": [
+                "Direcció",
+                "Dinamització",
+                "Dinamitzadora + tècnica de so",
+                "Informadora"
+            ],
+            "EJ Garcilaso": [
+                "Direcció",
+                "Dinamització"
+            ],
+            "EJ Les Basses": [
+                "Direcció",
+                "Dinamitzadora",
+                "Informadora",
+                "Tècnica de so"
+            ]
+        },
+        "SAIF": {
+            "Aquí t'escoltem": [
+                "Coordinació",
+                "Psicologa",
+                "Educadora"
+            ],
+            "Centre per families amb adolescents": [
+                "Coordinació",
+                "Administració i recepció",
+                "Psicologa",
+                "Educadora"
+            ]
+        },
+        "Serveis de Dinamització Juvenil i Espais Adolescents": {
+            "Franja Jove Raval": [],
+            "Joves Acció Convent": [],
+            "Franja Jove Gòtic": [],
+            "Franja Jove Barceloneta": [],
+            "Eix Jove": [
+                "Coordinadora"
+            ],
+            "Tarda Jove Poblesec": [],
+            "Espai 12@16": [],
+            "EA Jovecardí": [
+                "Dinamitzadora"
+            ],
+            "EA La Sedeta": [
+                "Coordinació",
+                "Dinamitzadora"
+            ],
+            "Sala Jove Casa Groga": [],
+            "SDJ Garcilaso i Franja Besos": [
+                "Coordinadora",
+                "Dinamitzadora"
+            ],
+            "EA La Clau": [
+                "Coordinadora",
+                "Dinamitzadora"
+            ]
+        },
+        "Sales d'Estudi": [
+            "Coordinació",
+            "Suport coordinació",
+            "Monitora"
+        ],
+        "Festivals de Creació Artística": {
+            "Brot": [
+                "Coordinació"
+            ],
+            "Visual Sound": [
+                "Coordinació"
+            ],
+            "Rough Diamonds": [
+                "Coordinació"
+            ]
+        }
+    },
+    "categories": [
+        "AI",
+        "A2",
+        "C1"
+    ],
+    "nivells": [
+        "C1 16 90.40",
+        "C1 20 90.20",
+        "A2 20 80.40",
+        "A2 22 80.30",
+        "A1 22 80.30"
+    ],
+    "experiencia": {
+        "A1": [
+            0,
+            0,
+            49,
+            49,
+            49,
+            185.08,
+            234.08,
+            276.08
+        ],
+        "A2": [
+            0,
+            0,
+            42,
+            42,
+            42,
+            157.86,
+            199.86,
+            235.86
+        ],
+        "C1": [
+            0,
+            0,
+            35,
+            35,
+            35,
+            140.52,
+            175.52,
+            205.52
+        ]
+    },
+    "destinacio": {
+        "C1 16 90.40": 372.32,
+        "C1 20 90.20": 467.83,
+        "A2 20 80.40": 463.83,
+        "A2 22 80.30": 542.45,
+        "A1 22 80.30": 542.45 
+    },
+    "responsabilitat": {
+        "C1 16 90.40": 676.61,
+        "C1 20 90.20": 885.02,
+        "A2 20 80.40": 687.98,
+        "A2 22 80.30": 895.80,
+        "A1 22 80.30": 895.80 
+    },
+    "sou_base": {
+        "A1": 1179.96,
+        "A2": 1020.28,
+        "C1": 766.06
+    },
+    "sou_extra": {
+        "A1": 728.13,
+        "A2": 744.11,
+        "C1": 662.10
+    },
+    "sou_trieni": {
+        "A1": 45.41,
+        "A2": 37.03,
+        "C1": 28.02
+    },
+    "sou_trieni_extra": {
+        "A1": 28.02,
+        "A2": 27,
+        "C1": 24.20
+    }
+}

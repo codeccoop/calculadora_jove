@@ -1,162 +1,162 @@
 {
     "figures": {
-        "Direcció i Suport SIIJ": [
-            "Direcció",
-            "Suport Material", 
-            "Suport Dades",
-            "Suport Gamificació"
-        ],
-        "OID": [
-            "Unitat de processos i qualitat",
-            "PRISMA",
-            "Comunicació"
-        ],
-        "Assessories": [
-            "Coordinadora",
-            "Assessores",
-            "Assessores CRAJ"
-        ],
-        "PIJ": {
-            "PIJ Integral Paral·lel i 9B": [
-                "Coordinadora",
-                "Informadora juvenil"
-            ],
-            "PIJ CV": [
-                "Informadora juvenil"
-            ],
-            "PIJ Sants": [
-                "Informadora juvenil"
-            ],
-            "PIJ Les Corts": [
-                "Informadora juvenil"
-            ],
-            "PIJ Sarrià": [
-                "Informadora juvenil"
-            ],
-            "PIJ Gràcia": [
-                "Informadora juvenil"
-            ],
-            "PIJ Punt 7": [
-                "Informadora juvenil"
-            ],
-            "PIJ Sant Andreu": [
-                "Informadora juvenil"
-            ],
-            "PIJ Sant Martí": [
-                "Direcció",
-                "Dinamitzadora",
-                "Informadora juvenil"
-            ]
+        "Direcció i Suport SIIJ": {
+            "Direcció": {"sou_base": 100, "nivell": "C1 16 90.40"},
+            "Suport Material": {"sou_base": 100, "nivell": "C1 16 90.40"},
+            "Suport Dades": {"sou_base": 100, "nivell": "C1 16 90.40"},
+            "Suport Gamificació": {"sou_base": 100, "nivell": "C1 16 90.40"}
         },
-        "JIP": [
-            "Coordinadora",
-            "Informadora juvenil"
-        ],
+        "OID": {
+            "Unitat de processos i qualitat": {"sou_base": 100, "nivell": "C1 16 90.40"},
+            "PRISMA": {"sou_base": 100, "nivell": "C1 16 90.40"},
+            "Comunicació": {"sou_base": 100, "nivell": "C1 16 90.40"}
+        },
+        "Assessories": {
+            "Coordinadora": {"sou_base": 100, "nivell": "C1 16 90.40"},
+            "Assessores": {"sou_base": 100, "nivell": "C1 16 90.40"},
+            "Assessores CRAJ": {"sou_base": 100, "nivell": "C1 16 90.40"}
+        },
+        "PIJ": {
+            "PIJ Integral Paral·lel i 9B": {
+                "Coordinadora": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Informadora juvenil": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "PIJ CV": {
+                "Informadora juvenil": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "PIJ Sants": {
+                "Informadora juvenil": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "PIJ Les Corts": {
+                "Informadora juvenil": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "PIJ Sarrià": {
+                "Informadora juvenil": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "PIJ Gràcia": {
+                "Informadora juvenil": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "PIJ Punt 7": {
+                "Informadora juvenil": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "PIJ Sant Andreu": {
+                "Informadora juvenil": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "PIJ Sant Martí": {
+                "Direcció": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Dinamitzadora": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Informadora juvenil": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            }
+        },
+        "JIP": {
+            "Coordinadora": {"sou_base": 100, "nivell": "C1 16 90.40"},
+            "Informadora juvenil": {"sou_base": 100, "nivell": "C1 16 90.40"}
+        },
         "Espais Joves i Casal de Joves": {
-            "CJ Palau Alòs": [
-                "Direcció",
-                "Programació",
-                "Dinamitzadora"
-            ],
-            "EJ La Bàscula": [
-                "Direcció",
-                "Dinamització"
-            ],
-            "CJ Les Corts": [
-                "Direcció",
-                "Dinamització"
-            ],
-            "EJ Casa Sagnier": [
-                "Direcció",
-                "Informadora",
-                "Dinamitzadora"
-            ],
-            "EJ La Fontana": [
-                "Direcció",
-                "Coordinació",
-                "Dinamitzadora",
-                "Informadora",
-                "Comunicació",
-                "Tècnica so",
-                "Tècnica llum"
-            ],
-            "CJ del Coll": [],
-            "CJ Girapells": [
-                "Direcció",
-                "Dinamitzadora"
-            ],
-            "EJ Boca Nord": [
-                "Direcció",
-                "Dinamització",
-                "Dinamitzadora + tècnica de so",
-                "Informadora"
-            ],
-            "EJ Garcilaso": [
-                "Direcció",
-                "Dinamització"
-            ],
-            "EJ Les Basses": [
-                "Direcció",
-                "Dinamitzadora",
-                "Informadora",
-                "Tècnica de so"
-            ]
+            "CJ Palau Alòs": {
+                "Direcció": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Programació": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Dinamitzadora": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "EJ La Bàscula": {
+                "Direcció": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Dinamització": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "CJ Les Corts": {
+                "Direcció": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Dinamització": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "EJ Casa Sagnier": {
+                "Direcció": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Informadora": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Dinamitzadora": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "EJ La Fontana": {
+                "Direcció": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Coordinació": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Dinamitzadora": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Informadora": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Comunicació": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Tècnica so": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Tècnica llum": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "CJ del Coll": {"sou_base": null, "nivell": null},
+            "CJ Girapells": {
+                "Direcció": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Dinamitzadora": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "EJ Boca Nord": {
+                "Direcció": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Dinamització": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Dinamitzadora + tècnica de so": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Informadora": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "EJ Garcilaso": {
+                "Direcció": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Dinamització": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "EJ Les Basses": {
+                "Direcció": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Dinamitzadora": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Informadora": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Tècnica de so": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            }
         },
         "SAIF": {
-            "Aquí t'escoltem": [
-                "Coordinació",
-                "Psicologa",
-                "Educadora"
-            ],
-            "Centre per families amb adolescents": [
-                "Coordinació",
-                "Administració i recepció",
-                "Psicologa",
-                "Educadora"
-            ]
+            "Aquí t'escoltem": {
+                "Coordinació": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Psicologa": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Educadora": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "Centre per families amb adolescents": {
+                "Coordinació": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Administració i recepció": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Psicologa": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Educadora": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            }
         },
         "Serveis de Dinamització Juvenil i Espais Adolescents": {
-            "Franja Jove Raval": [],
-            "Joves Acció Convent": [],
-            "Franja Jove Gòtic": [],
-            "Franja Jove Barceloneta": [],
-            "Eix Jove": [
-                "Coordinadora"
-            ],
-            "Tarda Jove Poblesec": [],
-            "Espai 12@16": [],
-            "EA Jovecardí": [
-                "Dinamitzadora"
-            ],
-            "EA La Sedeta": [
-                "Coordinació",
-                "Dinamitzadora"
-            ],
-            "Sala Jove Casa Groga": [],
-            "SDJ Garcilaso i Franja Besos": [
-                "Coordinadora",
-                "Dinamitzadora"
-            ],
-            "EA La Clau": [
-                "Coordinadora",
-                "Dinamitzadora"
-            ]
+            "Franja Jove Raval": {"sou_base": null, "nivell": null},
+            "Joves Acció Convent": {"sou_base": null, "nivell": null},
+            "Franja Jove Gòtic": {"sou_base": null, "nivell": null},
+            "Franja Jove Barceloneta": {"sou_base": null, "nivell": "C1 16 90.40"},
+            "Eix Jove": {
+                "Coordinadora": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "Tarda Jove Poblesec": {"sou_base": null, "nivell": null},
+            "Espai 12@16": {"sou_base": null, "nivell": null},
+            "EA Jovecardí": {
+                "Dinamitzadora": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "EA La Sedeta": {
+                "Coordinació": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Dinamitzadora": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "Sala Jove Casa Groga": {"sou_base": null, "nivell": null},
+            "SDJ Garcilaso i Franja Besos": {
+                "Coordinadora": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Dinamitzadora": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "EA La Clau": {
+                "Coordinadora": {"sou_base": 100, "nivell": "C1 16 90.40"},
+                "Dinamitzadora": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            }
         },
-        "Sales d'Estudi": [
-            "Coordinació",
-            "Suport coordinació",
-            "Monitora"
-        ],
+        "Sales d'Estudi": {
+            "Coordinació": {"sou_base": 100, "nivell": "C1 16 90.40"},
+            "Suport coordinació": {"sou_base": 100, "nivell": "C1 16 90.40"},
+            "Monitora": {"sou_base": 100, "nivell": "C1 16 90.40"}
+        },
         "Festivals de Creació Artística": {
-            "Brot": [
-                "Coordinació"
-            ],
-            "Visual Sound": [
-                "Coordinació"
-            ],
-            "Rough Diamonds": [
-                "Coordinació"
-            ]
+            "Brot": {
+                "Coordinació": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "Visual Sound": {
+                "Coordinació": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            },
+            "Rough Diamonds": {
+                "Coordinació": {"sou_base": 100, "nivell": "C1 16 90.40"}
+            }
         }
     },
     "categories": [
@@ -208,14 +208,31 @@
         "C1 20 90.20": 467.83,
         "A2 20 80.40": 463.83,
         "A2 22 80.30": 542.45,
-        "A1 22 80.30": 542.45 
+        "A1 22 80.30": 542.45
     },
     "responsabilitat": {
         "C1 16 90.40": 676.61,
         "C1 20 90.20": 885.02,
         "A2 20 80.40": 687.98,
         "A2 22 80.30": 895.80,
-        "A1 22 80.30": 895.80 
+        "A1 22 80.30": 895.80
+    },
+    "sou_base": {
+        "A1": 1179.96,
+        "A2": 1020.28,
+        "C1": 766.06
+    },
+    "sou_extra": {
+        "A1": 728.13,
+        "A2": 744.11,
+        "C1": 662.10
+    },
+    "responsabilitat": {
+        "C1 16 90.40": 676.61,
+        "C1 20 90.20": 885.02,
+        "A2 20 80.40": 687.98,
+        "A2 22 80.30": 895.80,
+        "A1 22 80.30": 895.80
     },
     "sou_base": {
         "A1": 1179.96,

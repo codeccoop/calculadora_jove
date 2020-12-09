@@ -36,7 +36,7 @@ function startApp (taules) {
     function onFiguraChange (ev) {
         var parent = ev.currentTarget;
         var currentValue = ev.currentTarget.value;
-        if (ev.currentTarget.taula[currentValue]) {
+        if (Object.keys(ev.currentTarget.taula[currentValue]).indexOf("sou_base") == -1) {
             var selectNode;
             if (parent.children_select) {
                 selectNode = parent.children_select;
@@ -87,7 +87,26 @@ function startApp (taules) {
     }
 
     function calcularSou () {
-        console.log("calcular sou");
+        // 13 x (sou_base + (triennis * sou_trienni) + destinacio + responsabilitat + complement_experiencia) + 2 x (sou_base_ext + (triennis + sou_triennis_ext)) + destinacio + responsabilitat + complement_experiencia);
+
+        var inputFigura = Array.apply(null, inputs.figura.getElementsByTagName("select")).pop();
+        var figuraValue = inputFigura.taula[inputFigura.value];
+
+        var horesInput = inputs.hores.input;
+        var horesValue = horesInput.value;
+        var paguesInput = inputs.pagues.input;
+        var paguesValue = paguesInput.value;
+        var antiguitatInput = inputs.antiguitat.input;
+        var antiguitatValue = antiguitatInput.value;
+
+        var sou_actual = figuraValue.sou_base;
+        var nivell = figuraValue.nivell;
+        var categoria = figuraValue.nivell.substring(0, 2);
+        var vectorExperiencies = taules.experiencia[categoria];
+        var plusExperiencia = vectorExperiencies[Math.min(antiguitatValue, vectorExperiencies.length - 1)];
+
+        var sou_ajuntament = 13 * (taules.sou_base[categoria] + (Math.floor(antiguitatValue / 3) * taules.sou_trieni[categoria]) + taules.destinacio[nivell] + plusExperiencia) + 2 * (taules.sou_extra[categoria] + (Math.floor(antiguitatValue / 3) * taules.sou_trieni_extra[categoria]) + taules.destinacio[nivell] + taules.responsabilitat[nivell] + plusExperiencia);
+        console.log(sou_ajuntament);
     }
 
     button.addEventListener("click", calcularSou);
